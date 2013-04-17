@@ -1,0 +1,14 @@
+{
+  "name": "MyFFOSApp",
+  "description": "My first FFOS App",
+  "type": "web",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Arthur Chen"
+  },
+  "permissions": {
+  },
+  "icons": {
+    "120": "/style/icons/Clock.png"
+  }
+}
